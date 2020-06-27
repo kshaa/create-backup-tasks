@@ -1,0 +1,62 @@
+{
+    "backup-sh": {
+        "branch": "master",
+        "description": null,
+        "homepage": null,
+        "owner": "kshaa",
+        "repo": "backup-sh",
+        "rev": "ff4f82a73be7485dc4feaade8d85b8557d8edb05",
+        "sha256": "043ixskwdylpcdi5g0yasik1gjkc9562gazgqy3s9hdg7m9zmc7j",
+        "type": "tarball",
+        "url": "https://github.com/kshaa/backup-sh/archive/ff4f82a73be7485dc4feaade8d85b8557d8edb05.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "gitignore": {
+        "branch": "master",
+        "description": "Nix function for filtering local git sources",
+        "homepage": "",
+        "owner": "hercules-ci",
+        "repo": "gitignore",
+        "rev": "647d0821b590ee96056f4593640534542d8700e5",
+        "sha256": "0ks37vclz2jww9q0fvkk9jyhscw0ial8yx2fpakra994dm12yy1d",
+        "type": "tarball",
+        "url": "https://github.com/hercules-ci/gitignore/archive/647d0821b590ee96056f4593640534542d8700e5.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "niv": {
+        "branch": "master",
+        "description": "Easy dependency management for Nix projects",
+        "homepage": "https://github.com/nmattia/niv",
+        "owner": "nmattia",
+        "repo": "niv",
+        "rev": "f73bf8d584148677b01859677a63191c31911eae",
+        "sha256": "0jlmrx633jvqrqlyhlzpvdrnim128gc81q5psz2lpp2af8p8q9qs",
+        "type": "tarball",
+        "url": "https://github.com/nmattia/niv/archive/f73bf8d584148677b01859677a63191c31911eae.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "nixos-19.09",
+        "description": "A read-only mirror of NixOS/nixpkgs tracking the released channels. Send issues and PRs to",
+        "homepage": "https://github.com/NixOS/nixpkgs",
+        "owner": "NixOS",
+        "repo": "nixpkgs-channels",
+        "rev": "289466dd6a11c65a7de4a954d6ebf66c1ad07652",
+        "sha256": "0r5ja052s86fr54fm1zlhld3fwawz2w1d1gd6vbvpjrpjfyajibn",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs-channels/archive/289466dd6a11c65a7de4a954d6ebf66c1ad07652.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "tasks-sh": {
+        "branch": "master",
+        "description": null,
+        "homepage": null,
+        "owner": "kshaa",
+        "repo": "tasks-sh",
+        "rev": "9564992460115111dcdaa19e6154707a7727e956",
+        "sha256": "0askrhhg6bpjs6gahwx7bjav7pql18wgbndcbxqz1lj78m7d3khg",
+        "type": "tarball",
+        "url": "https://github.com/kshaa/tasks-sh/archive/9564992460115111dcdaa19e6154707a7727e956.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
