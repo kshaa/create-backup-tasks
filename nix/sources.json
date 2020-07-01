@@ -5,10 +5,10 @@
         "homepage": null,
         "owner": "kshaa",
         "repo": "backup-sh",
-        "rev": "ff4f82a73be7485dc4feaade8d85b8557d8edb05",
-        "sha256": "043ixskwdylpcdi5g0yasik1gjkc9562gazgqy3s9hdg7m9zmc7j",
+        "rev": "a79ca14c4820a944c063d7cc64a9fc09f5a6a19d",
+        "sha256": "0fmzckahjidig023n45fk7960gw87c0bg4aav97mrxmnzzyg0vqv",
         "type": "tarball",
-        "url": "https://github.com/kshaa/backup-sh/archive/ff4f82a73be7485dc4feaade8d85b8557d8edb05.tar.gz",
+        "url": "https://github.com/kshaa/backup-sh/archive/a79ca14c4820a944c063d7cc64a9fc09f5a6a19d.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "gitignore": {
