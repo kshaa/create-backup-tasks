@@ -48,15 +48,15 @@
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "tasks-sh": {
-        "branch": "master",
+        "branch": "4f9310f",
         "description": null,
         "homepage": null,
         "owner": "kshaa",
         "repo": "tasks-sh",
-        "rev": "9564992460115111dcdaa19e6154707a7727e956",
-        "sha256": "0askrhhg6bpjs6gahwx7bjav7pql18wgbndcbxqz1lj78m7d3khg",
+        "rev": "4f9310f557ac5e805fdaf1e38caa253ee3b2404a",
+        "sha256": "0a435pv1pr0d8l2c27fb75hm8ma1lyqdvl32h0qkl7qvzhd96330",
         "type": "tarball",
-        "url": "https://github.com/kshaa/tasks-sh/archive/9564992460115111dcdaa19e6154707a7727e956.tar.gz",
+        "url": "https://github.com/kshaa/tasks-sh/archive/4f9310f557ac5e805fdaf1e38caa253ee3b2404a.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
