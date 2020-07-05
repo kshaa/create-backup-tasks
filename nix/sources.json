@@ -1,14 +1,14 @@
 {
     "backup-sh": {
-        "branch": "master",
+        "branch": "d7d3b76",
         "description": null,
         "homepage": null,
         "owner": "kshaa",
         "repo": "backup-sh",
-        "rev": "a79ca14c4820a944c063d7cc64a9fc09f5a6a19d",
-        "sha256": "0fmzckahjidig023n45fk7960gw87c0bg4aav97mrxmnzzyg0vqv",
+        "rev": "d7d3b76276480616782ad77f28950d5ff8399310",
+        "sha256": "0xfd3x9zqm9z8s7ysfzvm7yqphrz7gg5rxl76g257s9y6hvhvvim",
         "type": "tarball",
-        "url": "https://github.com/kshaa/backup-sh/archive/a79ca14c4820a944c063d7cc64a9fc09f5a6a19d.tar.gz",
+        "url": "https://github.com/kshaa/backup-sh/archive/d7d3b76276480616782ad77f28950d5ff8399310.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "gitignore": {
